@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: html
-        image: kaique5247/front:1.0
+        image: kaique5247/front:1.1
         ports:
         - containerPort: 5000
